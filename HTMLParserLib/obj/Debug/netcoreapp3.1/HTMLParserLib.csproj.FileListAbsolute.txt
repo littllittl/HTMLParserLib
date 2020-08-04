@@ -1,0 +1,9 @@
+C:\Users\littl\source\repos\HTMLParserLib\HTMLParserLib\bin\Debug\netcoreapp3.1\HTMLParserLib.deps.json
+C:\Users\littl\source\repos\HTMLParserLib\HTMLParserLib\bin\Debug\netcoreapp3.1\HTMLParserLib.dll
+C:\Users\littl\source\repos\HTMLParserLib\HTMLParserLib\obj\Debug\netcoreapp3.1\HTMLParserLib.csprojAssemblyReference.cache
+C:\Users\littl\source\repos\HTMLParserLib\HTMLParserLib\obj\Debug\netcoreapp3.1\HTMLParserLib.AssemblyInfoInputs.cache
+C:\Users\littl\source\repos\HTMLParserLib\HTMLParserLib\obj\Debug\netcoreapp3.1\HTMLParserLib.AssemblyInfo.cs
+C:\Users\littl\source\repos\HTMLParserLib\HTMLParserLib\bin\Debug\netcoreapp3.1\HTMLParserLib.pdb
+C:\Users\littl\source\repos\HTMLParserLib\HTMLParserLib\obj\Debug\netcoreapp3.1\HTMLParserLib.csproj.CoreCompileInputs.cache
+C:\Users\littl\source\repos\HTMLParserLib\HTMLParserLib\obj\Debug\netcoreapp3.1\HTMLParserLib.dll
+C:\Users\littl\source\repos\HTMLParserLib\HTMLParserLib\obj\Debug\netcoreapp3.1\HTMLParserLib.pdb
